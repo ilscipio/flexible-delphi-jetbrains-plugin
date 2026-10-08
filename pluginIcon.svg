@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40" height="40" viewBox="0 0 167 167" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="delphiBadge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C62828"/>
+      <stop offset="1" stop-color="#7F1010"/>
+    </linearGradient>
+  </defs>
+  <path d="M41.825,16.488c14.817,-2.525 30.008,1.812 41.254,11.783l0.309,0.275l0.279,-0.25c10.725,-9.408 25,-13.754 39.146,-11.908l2.033,0.295c23.7,4.092 41.179,24.855 41.179,48.9c0,12.571 -4.775,24.688 -13.354,33.875l-1.492,1.53l-0.396,0.337l-61.616,61.029c-2.925,2.896 -7.596,3.188 -10.859,0.679l-0.779,-0.679l-61.971,-61.383c-9.595,-9.338 -15.016,-22.175 -15.016,-35.567c-0,-24.087 17.537,-44.871 41.283,-48.916Z" fill="url(#delphiBadge)" stroke="#7F1010" stroke-width="0.83"/>
+  <path d="M48,58 L83,38 L118,58 Z" fill="#ffffff"/><rect x="50" y="61" width="66" height="7" rx="1.5" fill="#ffffff"/><rect x="56" y="71" width="10" height="34" rx="2" fill="#ffffff"/><rect x="78" y="71" width="10" height="34" rx="2" fill="#ffffff"/><rect x="100" y="71" width="10" height="34" rx="2" fill="#ffffff"/><rect x="46" y="108" width="74" height="8" rx="1.5" fill="#ffffff"/>
+</svg>
