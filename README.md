@@ -1,12 +1,14 @@
 <p align="center"><img src="https://raw.githubusercontent.com/ilscipio/flexible-delphi-jetbrains-plugin/main/pluginIcon.svg" width="80" alt="Flexible Delphi"></p>
 
-# [Flexible Delphi](https://plugins.jetbrains.com/search?search=Flexible%20Delphi)
+![Rating](https://img.shields.io/jetbrains/plugin/r/stars/34930) ![Downloads](https://img.shields.io/jetbrains/plugin/d/34930) ![Version](https://img.shields.io/jetbrains/plugin/v/34930)
+
+# [Flexible Delphi](https://plugins.jetbrains.com/plugin/34930-flexible-delphi)
 
 Delphi and Free Pascal in your JetBrains IDE. A Delphi form designer that links every event to its code. Completion, hover docs, refactoring, compile and debug. Opens old Delphi projects with binary forms, and current Delphi code with generics, anonymous methods and inline variables.
 
 **Flexible Delphi is a young plugin. Please leave a review, open a GitHub issue, or write to info@ilscipio.com. Report a bug or an idea and get 20% off the annual license, or one month free.**
 
-This repository holds the issue tracker and the documentation of the plugin. The plugin itself is proprietary and is available on the [JetBrains Marketplace](https://plugins.jetbrains.com/search?search=Flexible%20Delphi).
+This repository holds the issue tracker and the documentation of the plugin. The plugin itself is proprietary and is available on the [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/34930-flexible-delphi).
 
 ## Install
 
@@ -51,7 +53,7 @@ The plugin comes with a 30-day free trial. It is free for students and teachers,
 
 ### Form Designer
 * **Design tab** for every unit with a form. F12 switches between form and code in the Delphi keymap
-* **Component palette**, **canvas** and **Object Inspector** with Properties and Events
+* **Component palette** with search, **canvas** with alignment guides, and **Object Inspector** with properties and events grouped by category
 * **Double-click a component or an event** to create the handler in the unit and jump to it
 * **Binary DFM files** open in the designer and save back as binary
 
@@ -68,7 +70,7 @@ The plugin comes with a 30-day free trial. It is free for students and teachers,
 ## Links
 
 * [Report a bug or an idea](https://github.com/ilscipio/flexible-delphi-jetbrains-plugin/issues)
-* [JetBrains Marketplace](https://plugins.jetbrains.com/search?search=Flexible%20Delphi)
+* [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/34930-flexible-delphi)
 * [Ilscipio](https://www.ilscipio.com)
 
 Flexible Delphi is an independent plugin and is not affiliated with Embarcadero Technologies, the Free Pascal and Lazarus projects, or JetBrains.
